@@ -4,7 +4,7 @@ const periodOptions = Array.from(document.querySelectorAll(".time > p"));
 const current = [...document.querySelectorAll(".info > h3")];
 const previous = [...document.querySelectorAll(".info > p")];
 
-periodOptions.forEach(ele =>{
+periodOptions.forEach(ele => {
   ele.addEventListener("click", function(e) {
     periodOptions.forEach(ele => {
       ele.classList.remove("active");
