@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Abas-code/time-tracking-dashboard-main)
-- Live Site URL: (https://time-tracking-dashboard-main-orpin.vercel.app/)
+- Live Site URL: (https://time-tracking-dashboard-main-fawn.vercel.app/)
 
 
 ## My process
